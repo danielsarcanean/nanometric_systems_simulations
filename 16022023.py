@@ -85,5 +85,5 @@ draw_trajectory(vel, theta, reb)
 
 # Add a legend and show the graph
 plt.legend()
-#plt.ylim(bottom=0)
+plt.ylim(bottom=0)
 plt.show()
