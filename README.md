@@ -1,4 +1,5 @@
-# Simulaci-SistemesNanom-trics
-Code assignments
+# Nanometric Systems Simulations
 
-Aquí subiré las entregas de la asignatura de Simulación de Sistemas Nanométricos
+**Code assignments**
+
+I will keep track of the subject here by regularly uploading the assignments given in class. 
