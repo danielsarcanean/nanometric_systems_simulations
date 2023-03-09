@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------
-# INTRODUCTION TO MONTE CARLO WITH PYTHON
+# 1D ISING SOLUTIONSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 # May 2018 - Feb 2023
 # Example program by Jordi Faraudo
 # Simulation of a sequence of configurations for the 2D Ising model
@@ -9,6 +9,8 @@
 # The algorithm is based on Rajesh Singh (Cambridge University) blog with python resources in Physics.
 # https://rajeshrinet.github.io/blog/2014/ising-model/
 # Adapted by Jordi Faraudo 2018 for teaching purposes
+#
+# Edited by Daniel Sarcanean
 #
 # Here we import the numpy mathematical library and the plots library
 # as in the other examples in the course
