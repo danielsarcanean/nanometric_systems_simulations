@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------
-# 1D ISING SOLUTIONSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+# 1D ISING SOLUTIONS
 # May 2018 - Feb 2023
 # Example program by Jordi Faraudo
 # Simulation of a sequence of configurations for the 2D Ising model
