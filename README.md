@@ -2,4 +2,4 @@
 
 **Code assignments**
 
-I will keep track of the subject here by regularly uploading the assignments given in class. 
+The structure of each assignment is ordered following its due date and title. Many comments and indications are done within the programs. Graphical simulations can be found inside their homonimous containers. 
