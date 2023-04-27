@@ -1,0 +1,25 @@
+%include geom.fdf 
+
+PAO.BasisSize SZP
+DM.MixingWeight 0.1 
+
+DM.MixingWeight 3 
+%block kgrid.MonkhorstPack
+    24 0 0  0
+    0 1 0  0
+    0 0 1  0
+%endblock kgrid.MonkhorstPack
+
+Spin polarized
+
+%block ExternalElectricField
+0.000 0.500 0.000 V/Ang
+%endblock ExternalElectricField
+
+DM.UseSaveDM true
+
+SaveTotalPotential
+    
+TS.HS.Save true
+
+SaveRho true
