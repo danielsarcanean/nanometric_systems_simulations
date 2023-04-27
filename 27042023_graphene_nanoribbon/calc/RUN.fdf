@@ -1,0 +1,15 @@
+%include geom.fdf 
+
+PAO.BasisSize SZP
+DM.MixingWeight 0.1 
+
+DM.MixingWeight 3 
+%block kgrid.MonkhorstPack
+    24 0 0  0
+    0 1 0  0
+    0 0 1  0
+%endblock kgrid.MonkhorstPack
+    
+TS.HS.Save true
+    
+SaveRho true
