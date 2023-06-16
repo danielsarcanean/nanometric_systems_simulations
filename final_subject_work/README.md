@@ -2,4 +2,4 @@
 
 **Summary**
 
-This code aims to produce a Cerium metallic nanoparticle .pdb, by introducing a Montecarlo 'Metropolis-Hastings' algorithm, then calculating the self-assembly properties of 10 stochastic-generated structures. 
+This code aims to produce a Cerium metallic nanoparticle .pdb, by introducing a Montecarlo 'Metropolis-Hastings' algorithm & considering a simplified crystallization round-up stacking. Later on, the self-assembly properties of the generated structures are tested within a ... (to be reviewed)
