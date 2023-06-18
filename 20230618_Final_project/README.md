@@ -12,4 +12,4 @@ The namd scripts can be run by opening a terminal within the `namd_input` folder
     
     # Where +p$ has to be change to the number of $ logical cores you have
 
-The equilibrium script mantains the topological structure of the box, while the product script runs off directly within pressure and volume changes. 
+The equilibrium script mantains the topological structure of the box, while the product script runs following a constant piston pressure (NpT calculation). 
