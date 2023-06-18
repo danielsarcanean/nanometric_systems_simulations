@@ -12,4 +12,4 @@ The namd scripts can be run by opening a terminal within the `namd_input` folder
     
     # Where +p$ has to be changed to the number of $ logical cores you have
 
-The equilibrium script mantains the topological structure of the box, while the product script runs following a constant piston pressure (NpT calculation). Both are choosen to run at 1000 K. 
+Remember to add the `toppar` folder into the input folder so there is no need to change locations at the inputs. The equilibrium script mantains the topological structure of the box, while the product script runs following a constant piston pressure (NpT calculation). Both are choosen to run at 1000 K. 
