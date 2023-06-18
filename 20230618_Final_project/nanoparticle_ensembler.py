@@ -22,7 +22,10 @@ grid_size = 100
 grid = np.zeros((grid_size, grid_size, grid_size))
 grid[grid_size//2, grid_size//2, grid_size//2] = 1
 center = np.array([grid_size // 2, grid_size // 2, grid_size // 2])
-radius = 4.5479 # Real radius is 15 - normalization factor (r/3.65)
+
+# Select here your desired radius!
+radius = 15
+radius = radius/3.65 # Real radius is /15/ : normalization factor (r/3.65)
 
 # Monte Carlo steps (Choose accordingly for better coverage)
 n_steps = 2000
