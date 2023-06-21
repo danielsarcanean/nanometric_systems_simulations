@@ -41,7 +41,6 @@ def calculate_temperature_factor(x, y, z, center, max_radius):
     # Normalize the distance to the range [0, 1]
     normalized_distance = distance_to_center / max_radius
     # Calculate the temperature factor as a function of the normalized distance
-    # For example, you could use a linear function, but other functions are possible
     temperature_factor = normalized_distance
     return temperature_factor
 
@@ -120,7 +119,7 @@ with imageio.get_writer('simulation.gif', mode='I') as writer:
         image = imageio.v2.imread(filename)
         writer.append_data(image)
 
-grid_spacing = 3.65 # Angstroms (an extended factor is used to mimick 
+grid_spacing = 3.65 # Angstroms (an extended factor is used to mimic 
 # experimentally accurate data and prevent automatic bonding by VMD)
 
 # Save protein data bank file
