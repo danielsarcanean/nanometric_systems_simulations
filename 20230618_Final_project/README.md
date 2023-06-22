@@ -1,4 +1,4 @@
-![title]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/danielsarcanean/nanometric_systems_simulations/blob/628ca907267843b6a270ae1e339f29867114c158/20230618_Final_project/Visual_outputs/title.png))
+![title](https://github.com/danielsarcanean/nanometric_systems_simulations/blob/628ca907267843b6a270ae1e339f29867114c158/20230618_Final_project/Visual_outputs/title.png)
 
 **Summary**
 
