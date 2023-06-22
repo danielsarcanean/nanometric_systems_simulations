@@ -1,4 +1,4 @@
-![title](https://github.com/danielsarcanean/nanometric_systems_simulations/blob/628ca907267843b6a270ae1e339f29867114c158/20230618_Final_project/Visual_outputs/title.png)
+![title](https://github.com/danielsarcanean/nanometric_systems_simulations/blob/7623bf0140c49ad5e84c9883acfb8ee99ff9b502/20230618_Final_project/Visual_outputs/title.png)
 
 **Summary**
 
