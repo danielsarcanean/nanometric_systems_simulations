@@ -1,4 +1,4 @@
-# Nanoparticle self-assembly & conjugation modeller
+![title](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 **Summary**
 
